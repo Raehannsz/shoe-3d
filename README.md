@@ -4,11 +4,11 @@ A modern web application for customizing 3D shoe models using Three.js.
 
 ## Features
 
-- 🎨 **Interactive Color Picker** - Change shoe colors in real-time
-- 🔄 **Smooth 3D Rotation** - Auto-rotate or manual control with mouse/touch
-- 🎯 **High-Quality Rendering** - WebGL-based rendering with shadows
-- 📱 **Responsive Design** - Works on desktop and mobile devices
-- ✨ **Modern UI** - Glassmorphism design with smooth animations
+- **Interactive Color Picker** - Change shoe colors in real-time
+- **Smooth 3D Rotation** - Auto-rotate or manual control with mouse/touch
+- **High-Quality Rendering** - WebGL-based rendering with shadows
+- **Responsive Design** - Works on desktop and mobile devices
+- **Modern UI** - Glassmorphism design with smooth animations
 
 ## Project Structure
 
